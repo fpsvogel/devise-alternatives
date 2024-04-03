@@ -8,6 +8,7 @@
   - [rodauth-pwned](https://github.com/janko/rodauth-pwned)
   - [Rodauth Rails Demo](https://github.com/janko/rodauth-demo-rails)
 - [Clearance](https://github.com/thoughtbot/clearance), [Sorcery](https://github.com/Sorcery/sorcery), [AuthLogic](http://AuthLogic): more minimalist
+- [passwordless](https://github.com/mikker/passwordless) for magic link auth
 - [ReviseAuth](https://github.com/excid3/revise_auth), [ActionAuth](https://github.com/kobaltz/action_auth): funny because created by the GoRails and Drifting Ruby guys
 
 ## Generators
